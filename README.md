@@ -1,6 +1,7 @@
 # ShadertoyShadersForUnity
 
-A selection of raymarched Shadertoy shaders converted for use in unity and VRChat. Translated by Clawbird (on discord at Pathos#0925) with Angle and some C#.
+A selection of raymarched Shadertoy shaders converted for use in unity and VRChat. Translated by Clawbird (on discord at Pathos#0925) with Angle and some C#. To make these double-sided add "Cull Off" under "LOD 100". To make these draw over everything add or uncomment "ZTest Always", or comment to disable. Adjust DistanceThreshold to set how close you need to be able to see it. Some of these are very expensive and will lower many peoples FPS so I suggest setting this rather close. Also, please use these responsible and provide some sort of warning.
+
 ### Find these on Shadertoy.com
 
 ### FractalLand
