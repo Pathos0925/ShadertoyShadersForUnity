@@ -5,7 +5,7 @@
 //Generators 
 //by Kali
 
-Shader "CB/Genrators" {
+Shader "Clawbird/Genrators" {
     Properties {
 
 			_DistanceThreshold ("_DistanceThreshold", float) = 1.8

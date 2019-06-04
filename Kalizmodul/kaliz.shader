@@ -5,7 +5,7 @@
 //kalizulmodul
 //by bergi
 
-Shader "CB/kaliz" {
+Shader "Clawbird/kalizmodul" {
     Properties {
 
 			_DistanceThreshold ("_DistanceThreshold", float) = 1.8
