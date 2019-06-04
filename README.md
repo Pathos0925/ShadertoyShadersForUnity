@@ -32,3 +32,11 @@ https://www.shadertoy.com/view/MdySzc
 #### by knarkowicz
 https://www.shadertoy.com/view/4ldGz4
 ![Speed Drive 80](Screenshots/SpeedDrive.png)
+
+### The Drive Home
+#### by BigWIngs
+https://www.shadertoy.com/view/MdfBRX
+
+### Hot Rocks
+#### by dr2
+https://www.shadertoy.com/view/4lSXR3
