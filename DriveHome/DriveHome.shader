@@ -442,8 +442,6 @@ return o;
 fixed4 frag(v2f i) : SV_Target{
 
 {
-if (_test1 != 5.12)
-			return fixed4(1.,1.,1.,0.);
 			
 	fixed2 uv = i.uv;
 	uv.x *=  1 / 1;
